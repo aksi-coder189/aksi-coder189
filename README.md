@@ -25,26 +25,22 @@
 
 <!-- About Section -->
 ## 🧠 About Me
+# 👋 I'm Aakriti Singh
 
-```python
-## 🧠 About Me
+### 🧠 AI/ML Student & Full-Stack Developer
+I am a passionate technologist currently pursuing **B.Tech in CSE (AI/ML) at BPDSEU**. I specialize in building intelligent systems that solve real-world problems, bridging the gap between complex data models and seamless user experiences.
 
-💡 AI/ML student building real-world intelligent systems and solving meaningful problems.
+---
 
-```python
-class Aakriti:
-    def __init__(self):
-        self.name = "Aakriti Singh"
-        self.degree = "B.Tech CSE (AI/ML) @ BPDSEU"
-        self.interests = ["Machine Learning", "NLP", "Deep Learning"]
-        self.tools = ["Python", "Scikit-learn", "Flask", "FastAPI", "React"]
-        self.currently = "Building AI-powered projects 🚀"
-        self.goal = "AI/ML Engineer"
+### 🌟 At a Glance
+* 🎯 **Current Focus:** Building AI-powered projects and mastering Deep Learning.
+* 🚀 **Goal:** Aspiring AI/ML Engineer dedicated to impactful innovation.
+* 💡 **Mindset:** Learn → Build → Improve → Repeat.
 
-    def mindset(self):
-        return "Learn → Build → Improve → Repeat"
-```
-
+### 🛠️ Core Expertise
+* **AI / ML:** Scikit-learn, NLP, Deep Learning, Pandas, NumPy
+* **Backend:** Python, FastAPI, Flask, MySQL
+* **Frontend:** React, TailwindCSS
 
 ---
 
