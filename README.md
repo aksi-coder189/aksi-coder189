@@ -27,23 +27,24 @@
 ## 🧠 About Me
 
 ```python
+## 🧠 About Me
+
+💡 AI/ML student building real-world intelligent systems and solving meaningful problems.
+
+```python
 class Aakriti:
     def __init__(self):
-        self.name       = "Aakriti Singh"
-        self.degree     = "B.Tech CSE (AI/ML) @ BPDSEU · 2024–2028"
-        self.gpa        = 7.85
-        self.interests  = ["Machine Learning", "NLP", "Deep Learning", "Fraud Detection"]
-        self.tools      = ["Python", "Scikit-learn", "Flask", "FastAPI", "React.js"]
-        self.databases  = ["MySQL", "MongoDB", "Oracle"]
-        self.currently  = "Building real-world AI projects 🚀"
-        self.goal       = "Aspiring AI/ML Engineer | Hackathon Builder"
+        self.name = "Aakriti Singh"
+        self.degree = "B.Tech CSE (AI/ML) @ BPDSEU"
+        self.interests = ["Machine Learning", "NLP", "Deep Learning"]
+        self.tools = ["Python", "Scikit-learn", "Flask", "FastAPI", "React"]
+        self.currently = "Building AI-powered projects 🚀"
+        self.goal = "AI/ML Engineer"
 
-    def say_hi(self):
-        print("Let's build something impactful together!")
-
-me = Aakriti()
-me.say_hi()
+    def mindset(self):
+        return "Learn → Build → Improve → Repeat"
 ```
+
 
 ---
 
